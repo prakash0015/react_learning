@@ -13,7 +13,7 @@ function App() {
     setCounter(counter + 1); 
     setCounter(counter + 1); 
     setCounter(counter + 1); 
-    setCounter(counter + 5); 
+    setCounter(counter + 1); 
 
   }
 
